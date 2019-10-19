@@ -45,7 +45,7 @@ download and extract and copy winutils.exe to hadoop/bin/
  
  python -m pip install findspark
  
- wait for install (sometime it will not it is installed, then press any key.. it will show successfully installed)
+ wait for install (sometime it will not show it is installed, then press any key.. it will show successfully installed)
  
  Now open Jupyter notebook. Search and it will automatically open in your browser.
  On right side of jupyter home page you find (New) dropdown -> select python 3 -> your py book will open
