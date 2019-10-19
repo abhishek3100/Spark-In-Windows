@@ -49,6 +49,7 @@ download and extract and copy winutils.exe to hadoop/bin/
  Let's check pyspark is working or not
  
  import findspark
+ 
  findspark.init()
  
  This will execute perfectly. Seems, You got no error. You're Good to Go
