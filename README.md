@@ -1,4 +1,4 @@
-# Spark-In-Windows
+# Apache Spark-In-Windows & In Jupyter Notebook
 Setup Apache Spark in Windows and In Jupyter Notebook Using Anaconda
 
 Installing Apache Spark in Linux is easy but in Windows it is bit complex. Let's wrap up everything and solve this as piece of cake.
