@@ -26,14 +26,18 @@ Go to this link : https://github.com/khutal/winutils.git
 download and extract and copy winutils.exe to hadoop/bin/
 
 5. Now Adding path just like we do in Linux in bashrc
- step: Search 'edit environment variables for your account' in your search bar of windows
+
+ step: 
+ Search 'edit environment variables for your account' in your search bar of windows
  or right click on 'This Pc'-> Properties -> Advanced System setting -> Environment Variables
  
  Under User Variable box, 
+ 
  click New -> Variable Name : HADOOP_HOME -> Variable value : location(C:\hadoop) or browse your directory and select
  Same like that add path for Spark. Good Now next.
  
  Under System Variables
+ 
  Click on path -> edit -> New -> add path with bin e.g C:\hadoop\bin also add C:\spark\bin -> OK -> OK.  Thats it we're done here. Few more step
  
  6. Now Anaconda Part
